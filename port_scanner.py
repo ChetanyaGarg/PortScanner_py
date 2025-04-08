@@ -9,7 +9,7 @@ def scanning(ipaddress,port):
 def scan_port(ipaddress,port):
     try:
         sock=socket.socket()
-        sock.settimeout(2)
+        sock.settimeout(1)
         sock.connect((ipaddress,port))
         print(termcolor.colored("[+] Port Open " + str(port),'green'))
         sock.close()
