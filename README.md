@@ -45,3 +45,4 @@ This tool is intended **only for ethical purposes**. **Do not** use this tool fo
 MIT License – Free to use, modify, and distribute.
 ```
 
+---
