@@ -40,7 +40,5 @@ Enter the target IP(s) and port range when prompted.
 ## Legal Disclaimer
 This tool is intended **only for ethical purposes**. **Do not** use this tool for unauthorized scanning or penetration testing without explicit permission.
 
-## License
-MIT License – Free to use, modify, and distribute.
 
 ---
